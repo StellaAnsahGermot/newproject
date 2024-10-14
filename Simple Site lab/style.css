@@ -1,0 +1,9 @@
+body {
+    background-color: skyblue;
+    text-align: center;
+}
+
+b > span {
+    color: green;
+    text-align: center;
+}
